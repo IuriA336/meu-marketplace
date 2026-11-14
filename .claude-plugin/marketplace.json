@@ -1,0 +1,11 @@
+{
+  "name": "meu-marketplace",
+  "owner": { "name": "Iuri" },
+  "plugins": [
+    {
+      "name": "meu-plugin",
+      "source": "./meu-plugin",
+      "description": "O que o plugin faz"
+    }
+  ]
+}
